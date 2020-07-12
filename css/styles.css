@@ -73,6 +73,7 @@ a:hover {
   margin: 100px auto 100px auto;
   text-align: left;
 }
+
 .link1{
   margin: auto;
 }
@@ -111,13 +112,14 @@ a:hover {
 
 .code-img_1 {
   width: 25%;
-  float: left;
-  margin-right: 80px;
+  float: right;
+  margin-left: 50px;
 }
 
 .code-img_2 {
   width: 25%;
-  float: right;
+  float: left;
+  margin-right: 50px;
 }
 
 .btn {
